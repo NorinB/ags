@@ -18,7 +18,7 @@ optdepends=('gnome-bluetooth-3.0: required for bluetooth service'
   'power-profiles-daemon: required for powerprofiles service'
   'upower: required for battery service')
 conflicts=('aylurs-gtk-shell' 'aylurs-gtk-shell-git')
-source=("git+${url}.git#commit=1909b9d332706a8eca193e2f424cc7b48f773dca"
+source=("git+${url}.git#commit=bccc28c46d0f3ed6c5864669addd3a95a6d98c7f"
   "git+https://gitlab.gnome.org/GNOME/libgnome-volume-control")
 sha256sums=('SKIP'
   'SKIP')
