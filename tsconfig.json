@@ -8,7 +8,7 @@
     "allowJs": true,
     "checkJs": false,
     "outDir": "_build/tsc-out",
-    "strict": false,
+    "strict": true,
     "moduleResolution": "node",
     "baseUrl": ".",
     "typeRoots": [
